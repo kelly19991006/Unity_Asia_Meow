@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -316,6 +317,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Meow-Knight_Run_1: -4417922194782640890
+      Meow-Knight_Run_2: -3020060159063563919
+      Meow-Knight_Run_4: 6541482919008132199
+      Meow-Knight_Run_7: 8169887038547481202
+      Meow-Knight_Run_0: 6244167583305193946
+      Meow-Knight_Run_5: -6104602517803406371
+      Meow-Knight_Run_3: 1728766479226810947
+      Meow-Knight_Run_6: 6556107465815336872
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

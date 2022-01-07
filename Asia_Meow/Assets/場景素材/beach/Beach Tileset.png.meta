@@ -333,6 +333,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2596,6 +2597,110 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Beach Tileset_22: -1765493538055696334
+      Beach Tileset_94: -731333776253274886
+      Beach Tileset_61: 6501226396928856010
+      Beach Tileset_73: 7602968327517032502
+      Beach Tileset_23: -1533947089826053001
+      Beach Tileset_16: 5397962845868950397
+      Beach Tileset_40: -2372862538112197702
+      Beach Tileset_48: -3921183858965941631
+      Beach Tileset_11: -9169353987702016659
+      Beach Tileset_21: -6324158820693874649
+      Beach Tileset_85: -296256191507738832
+      Beach Tileset_89: 3018039651033341452
+      Beach Tileset_80: 8901452231232133759
+      Beach Tileset_87: -6223030204995061453
+      Beach Tileset_53: -6785992952424940975
+      Beach Tileset_9: 6242262368041670247
+      Beach Tileset_19: 223832741294406050
+      Beach Tileset_38: -8592778906119659950
+      Beach Tileset_50: -6054005810999638104
+      Beach Tileset_95: -6738835793506572620
+      Beach Tileset_100: 3500320722497458404
+      Beach Tileset_32: 4242004440515153872
+      Beach Tileset_8: -9116886050160221591
+      Beach Tileset_84: 6664873481733160475
+      Beach Tileset_43: 4636430802461152970
+      Beach Tileset_101: 877701395669393743
+      Beach Tileset_1: -8017782470245499802
+      Beach Tileset_46: 943094580741663356
+      Beach Tileset_10: -2485830216065932488
+      Beach Tileset_57: -4879486193135807937
+      Beach Tileset_54: -6031631029026437244
+      Beach Tileset_103: 433606315786648493
+      Beach Tileset_55: 4447359013346071683
+      Beach Tileset_39: -808628729797834080
+      Beach Tileset_12: 1104516357419074977
+      Beach Tileset_2: -6493806035240140837
+      Beach Tileset_97: -7669715150030317042
+      Beach Tileset_18: 2820904379632562821
+      Beach Tileset_96: -2389010253719824344
+      Beach Tileset_66: 4213674454473910721
+      Beach Tileset_88: 8458997201049557679
+      Beach Tileset_99: 4422889469419874343
+      Beach Tileset_58: -8326094939028476980
+      Beach Tileset_42: -8381975906665817064
+      Beach Tileset_25: -2273840551343214607
+      Beach Tileset_44: 6071975584172540568
+      Beach Tileset_52: -3408655374091817844
+      Beach Tileset_59: 3931522444283000279
+      Beach Tileset_70: -5581330967464123243
+      Beach Tileset_98: 5160005233607421585
+      Beach Tileset_60: 1553618086170674556
+      Beach Tileset_56: -3960186882470746657
+      Beach Tileset_72: 4155224965484512116
+      Beach Tileset_91: 7156122600580794409
+      Beach Tileset_14: -1102034412001047519
+      Beach Tileset_78: -5039253486257615098
+      Beach Tileset_7: -6984408102193596951
+      Beach Tileset_65: 5300661093103436280
+      Beach Tileset_20: 3700096148910540730
+      Beach Tileset_29: 1185754946759924425
+      Beach Tileset_26: 7366471416023258483
+      Beach Tileset_17: -945707145439904012
+      Beach Tileset_49: 4553985993960930259
+      Beach Tileset_63: -861479371854620282
+      Beach Tileset_86: 9033807982520814907
+      Beach Tileset_15: 3702335334713406743
+      Beach Tileset_24: -6743665547223552599
+      Beach Tileset_45: -7746328825947431874
+      Beach Tileset_82: -3184618645006546740
+      Beach Tileset_90: -8723233511914655830
+      Beach Tileset_34: -6500107026419106264
+      Beach Tileset_104: 938897557630775838
+      Beach Tileset_83: 7513564948108246570
+      Beach Tileset_92: -1363281525351691992
+      Beach Tileset_68: 3126585716003654794
+      Beach Tileset_31: -468811634852653475
+      Beach Tileset_33: 2579157708117906957
+      Beach Tileset_30: 7177615686943416061
+      Beach Tileset_93: 8021370919367412642
+      Beach Tileset_6: 4955977291533208789
+      Beach Tileset_69: 7952372326685262545
+      Beach Tileset_75: 3091456095280179312
+      Beach Tileset_74: 4963371744694327673
+      Beach Tileset_0: 1247755375628971949
+      Beach Tileset_28: 1237048894994152983
+      Beach Tileset_79: -2501863694988331760
+      Beach Tileset_71: -6729656313509288479
+      Beach Tileset_37: 8429154728924766501
+      Beach Tileset_76: 909809305659652693
+      Beach Tileset_13: -599570560324280208
+      Beach Tileset_3: 963022203583916829
+      Beach Tileset_36: -2662311443174297607
+      Beach Tileset_81: 2013543680781572380
+      Beach Tileset_27: -100707422744571513
+      Beach Tileset_77: 8785332320520746446
+      Beach Tileset_47: 8047006828885317477
+      Beach Tileset_67: -6472261148856213760
+      Beach Tileset_102: 646136492617941533
+      Beach Tileset_41: -6207321108901268031
+      Beach Tileset_64: 1119469646186137333
+      Beach Tileset_35: 2018300950427473141
+      Beach Tileset_51: -1408116596614733631
+      Beach Tileset_62: -638900553366178301
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
